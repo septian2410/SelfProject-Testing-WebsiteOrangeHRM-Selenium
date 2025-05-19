@@ -53,9 +53,13 @@ Automated testing of OrangeHRM's core HR management features including employee 
 ### Testing Tools
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?logo=cucumber&logoColor=white)
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF0000.svg?style=for-the-badge&logo=testng&logoColor=white)
+![Chrome Testing](https://img.shields.io/badge/Chrome_Testing-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SelectorHub](https://img.shields.io/badge/SelectorHub-FF6C37?style=for-the-badge&logo=selecthub&logoColor=white)
 
 ### Reporting
 ![ExtentReports](https://img.shields.io/badge/-Extent_Reports-FF6F61?logo=)
@@ -76,7 +80,9 @@ Automated testing of OrangeHRM's core HR management features including employee 
 | User Management | ![Menu User Management](https://github.com/user-attachments/assets/fa23a579-7ff8-44ca-9118-6734ab26a8d4) |
 | Job Details | ![Menu Job Details](https://github.com/user-attachments/assets/af73317f-bf7c-4eb9-b563-a81fe6e716a1) |
 | Pay Grades | ![Menu Pay Grades](https://github.com/user-attachments/assets/49cf2e87-9292-4232-8081-922941027acd) |
+| Employment Status |![Menu Employment Status](https://github.com/user-attachments/assets/e0dc26ab-262a-4bf9-ace8-ddbd73689c69) |
 | Job Categories | ![Menu Job Categories](https://github.com/user-attachments/assets/7826fc1e-ddee-4bab-818e-afb0480e8f8c) |
+
 
 ---
 
