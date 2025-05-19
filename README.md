@@ -3,8 +3,8 @@
 Menguji secara Otomatisasi  menggunakan Selenium pada sebuah website yang dipergunakan untuk membantu perusahaan dalam mengelola berbagai aspek manajemen sumber daya manusia (SDM) secara efisien.
 
 ## Daftar Menu yang di uji ##
-Menu PIM = menu yang digunakan untuk melakukan pendataan karyawan yang telah terdaftar pada perusahaan.
-Menu Admin = Menu yang memiliki banyak fungsi seperti, 
+** Menu PIM = menu yang digunakan untuk melakukan pendataan karyawan yang telah terdaftar pada perusahaan.
+** Menu Admin = Menu yang memiliki banyak fungsi seperti, 
   1. Pendataan user pengguna aplikasi OrangeHRM (USER),
   2. Penetapan daftar pekerjaan yang tersedia pada perusahaan (JOB DETAILS),
   3. Penetapan mata uang serta nominal dari pembayaran gaji setiap karyawan (PAY GRADES),
@@ -29,7 +29,7 @@ Menu Admin = Menu yang memiliki banyak fungsi seperti,
 
 ## Video Demo Automation - Website OrangeHRM
 ------------------------
-###### https://drive.google.com/file/d/1NcMbj1AXd-l1AZh-Y_ZcB8if6ZbXCLYR/view?usp=sharing
+## https://drive.google.com/file/d/1NcMbj1AXd-l1AZh-Y_ZcB8if6ZbXCLYR/view?usp=sharing
 
 ## Showcase Application
 ------------------------
@@ -41,12 +41,19 @@ Menu Admin = Menu yang memiliki banyak fungsi seperti,
 ###### ![Menu Job Categories](https://github.com/user-attachments/assets/7826fc1e-ddee-4bab-818e-afb0480e8f8c)
 
 
-## TEST RESULT & EXTENT REPORT
+## TEST RESULT & EXTENT REPORT / LAPORAN HASIL AKHIR PENGUJIAN AUTOMATION
 ------------------------
 ![Report Extend Cucumber New 1](https://github.com/user-attachments/assets/fd39bb64-0b46-4843-aa19-8e04b758ac5a)
 ![Report Extend Cucumber New](https://github.com/user-attachments/assets/ce772053-0609-4856-9cb6-dd4b0e3a8f2e)
 
+** Total keseluruhan Pengujian ** 
 
+**  Fitur yang di uji 			                = 24 
+** Scenario Pengujian (Positif / Negatif) 	= 96
+** Keseluruhan Steps definisi pengujian	    = 569
+** Ditemukan Bug                            = 0
+
+** Tanggal Pengujian Terakhir               = 19 / 05 / 2025 
 
 ## License
 Pandu Septiandito, Jakarta, Since 2025
